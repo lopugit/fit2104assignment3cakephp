@@ -66,7 +66,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                 <div class="row">
                     <div class="column">
 
-												<a href="products" class="btn text-center"><h1>Products</h1></a>
+												<a href="products" class="btn text-center"><h1>>> Products <<</h1></a>
 										</div>
 								</div>
                 <div class="row">
