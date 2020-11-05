@@ -5,7 +5,7 @@
  */
 ?>
 <div class="products index content">
-    <?= $this->Html->link(__('New Product'), ['action' => 'add'], ['class' => 'button float-right']) ?>
+    <?= $this->Html->link(__('Products'), ['action' => 'index'], ['class' => 'button float-right']) ?>
     <h3><?= __('Products') ?></h3>
 
 		<div class="products form content">
