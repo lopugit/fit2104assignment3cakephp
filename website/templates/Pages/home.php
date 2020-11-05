@@ -65,6 +65,11 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
             <div class="content">
                 <div class="row">
                     <div class="column">
+												<a href="products.php" class="btn">Products</a>
+										</div>
+								</div>
+                <div class="row">
+                    <div class="column">
                         <div class="message default text-center">
                             <small>Please be aware that this page will not be shown if you turn off debug mode unless you replace templates/Pages/home.php with your own version.</small>
                         </div>
