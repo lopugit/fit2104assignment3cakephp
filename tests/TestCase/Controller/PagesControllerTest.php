@@ -76,7 +76,7 @@ class PagesControllerTest extends TestCase
      */
     public function testMissingTemplateInDebug()
     {
-        Configure::write('debug', true);
+        Configure::write('DEBUG', false);
         $this->get('/pages/not_existing');
 
         $this->assertResponseFailure();
